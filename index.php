@@ -1,1 +1,4 @@
-"<?php class foo {}" 
+<?php 
+class foo {
+
+}
