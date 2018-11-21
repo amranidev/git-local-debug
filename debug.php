@@ -1,4 +1,7 @@
 <?php 
 
 
-class debug {}
+class debug {
+
+}
+
