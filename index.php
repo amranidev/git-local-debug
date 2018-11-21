@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 // rebase, merge from interface
@@ -6,4 +5,5 @@
 // stage 2 in master
 class foo {
 // debug feature func
+
 }
