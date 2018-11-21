@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 // rebase, merge from interface
