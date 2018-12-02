@@ -5,5 +5,4 @@
 // stage 2 in master
 class foo {
 // debug feature func
-
 }
